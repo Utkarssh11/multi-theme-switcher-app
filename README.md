@@ -2,7 +2,7 @@
 
 This is a React + TypeScript web application built for a frontend developer assessment. The app allows users to switch between three distinct visual themes, each with a unique layout, typography, and color scheme. The selected theme persists across pages and reloads.
 
-## 🌐 Live Demo
+## Live Demo
 
 [Live Link](https://multi-theme-switcher-app-nine.vercel.app/)  
 
@@ -19,7 +19,7 @@ This is a React + TypeScript web application built for a frontend developer asse
 - Smooth animations when switching themes
 - Built with React 18, TypeScript, and Context API
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - React + TypeScript
 - React Router
@@ -28,7 +28,7 @@ This is a React + TypeScript web application built for a frontend developer asse
 - Vite / CRA (whichever you used)
 - CSS Variables for theme switching
 
-## 📁 Project Structure (Simplified)
+## Project Structure (Simplified)
 
 ```
 
@@ -43,7 +43,7 @@ src/
 
 ````
 
-## 🔧 Installation
+## Installation
 
 ```bash
 git clone https://github.com/Utkarssh11/multi-theme-switcher-app.git
@@ -54,14 +54,14 @@ npm start
 
 Then open [http://localhost:3000](http://localhost:3000)
 
-## 📦 Deployment
+## Deployment
 
 You can deploy the app using:
 
 * **Vercel**: `vercel`
 * **GitHub Pages** (with gh-pages)
 
-## 📣 Notes
+## Notes
 
 * TypeScript is used for type safety.
 * Project is mobile-first and fully responsive.
