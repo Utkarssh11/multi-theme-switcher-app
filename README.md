@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 # Multi-Theme Switcher App
 
 A modern React + TypeScript web application that demonstrates dynamic theming with three distinct visual themes. Each theme offers a unique layout, typography, and color scheme while maintaining full functionality and responsiveness.
 
-## 🎨 Features
+## Features
 
 ### Theme System
 - **Theme 1 (Minimalist)**: Clean, light design with sans-serif typography
@@ -25,7 +24,7 @@ A modern React + TypeScript web application that demonstrates dynamic theming wi
 - **About**: Technology stack and theme information
 - **Contact**: Contact form with validation
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - **React 18** with Hooks and functional components
 - **TypeScript** for type safety
@@ -34,7 +33,7 @@ A modern React + TypeScript web application that demonstrates dynamic theming wi
 - **CSS Custom Properties** for dynamic theming
 - **Responsive Design** with mobile-first approach
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -55,14 +54,14 @@ A modern React + TypeScript web application that demonstrates dynamic theming wi
 4. **Open your browser**
    Navigate to `http://localhost:3000`
 
-## 🛠️ Available Scripts
+## Available Scripts
 
 - `npm start` - Runs the app in development mode
 - `npm build` - Builds the app for production
 - `npm test` - Launches the test runner
 - `npm eject` - Ejects from Create React App (not recommended)
 
-## 🎯 Theme Details
+## Theme Details
 
 ### Theme 1: Minimalist
 - **Layout**: Clean, centered layout
@@ -82,14 +81,14 @@ A modern React + TypeScript web application that demonstrates dynamic theming wi
 - **Typography**: Google Fonts (Pacifico)
 - **Spacing**: Large, playful spacing
 
-## 📱 Responsive Design
+## Responsive Design
 
 The application is fully responsive and optimized for:
 - Desktop (1200px+)
 - Tablet (768px - 1199px)
 - Mobile (320px - 767px)
 
-## 🔧 Project Structure
+## Project Structure
 
 ```
 src/
@@ -112,11 +111,11 @@ src/
 └── index.css           # Global styles
 ```
 
-## 🌐 API Integration
+## API Integration
 
 The app fetches product data from [FakeStore API](https://fakestoreapi.com/products) to demonstrate external data integration.
 
-## 🎨 Customization
+## Customization
 
 ### Adding New Themes
 1. Add theme variables to `src/index.css`
@@ -129,7 +128,7 @@ The app fetches product data from [FakeStore API](https://fakestoreapi.com/produ
 - Update theme-specific styles in component files
 - Test across different screen sizes
 
-## 🚀 Deployment
+## Deployment
 
 ### Vercel
 1. Install Vercel CLI: `npm i -g vercel`
@@ -149,7 +148,7 @@ The app fetches product data from [FakeStore API](https://fakestoreapi.com/produ
    ```
 4. Run: `npm run deploy`
 
-## 🧪 Testing
+## Testing
 
 The application includes:
 - TypeScript for compile-time error checking
@@ -157,11 +156,11 @@ The application includes:
 - Cross-browser compatibility
 - Accessibility features
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -169,7 +168,7 @@ This project is open source and available under the [MIT License](LICENSE).
 4. Test thoroughly
 5. Submit a pull request
 
-## 📞 Support
+## Support
 
 For questions or support, please contact:
 - Email: hello@themeswitcher.com
@@ -177,8 +176,7 @@ For questions or support, please contact:
 
 ---
 
-**Built with ❤️ using React, TypeScript, and modern web technologies** 
+**Built with using React, TypeScript, and modern web technologies** 
 =======
 # multi-theme-switcher-app
 Submission for React Frontend Developer Technical Assessment – Includes theme switching, routing, API integration, and responsive design.
->>>>>>> 17a6a43818818db977fc514e72ab7bb25ff1919d
