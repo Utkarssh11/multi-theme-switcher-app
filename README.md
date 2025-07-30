@@ -54,12 +54,6 @@ npm start
 
 Then open [http://localhost:3000](http://localhost:3000)
 
-## Deployment
-
-You can deploy the app using:
-
-* **Vercel**: `vercel`
-* **GitHub Pages** (with gh-pages)
 
 ## Notes
 
