@@ -6,7 +6,7 @@ This is a React + TypeScript web application built for a frontend developer asse
 
 [Live Link](https://multi-theme-switcher-app-nine.vercel.app/)  
 
-## 🚀 Features
+## Features
 
 - Three fully distinct themes:
   - **Minimalist Theme:** Light layout with sans-serif font
