@@ -60,5 +60,3 @@ Then open [http://localhost:3000](http://localhost:3000)
 * TypeScript is used for type safety.
 * Project is mobile-first and fully responsive.
 * App is accessible and tested across modern browsers.
-
-```
