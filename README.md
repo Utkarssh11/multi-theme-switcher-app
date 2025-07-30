@@ -4,7 +4,7 @@ This is a React + TypeScript web application built for a frontend developer asse
 
 ## Live Demo
 
-[Live Link](https://multi-theme-switcher-app-nine.vercel.app/)  
+[Live Link](https://multi-theme-switcher-app-git-main-utkarsh-patidar-s-projects.vercel.app/)  
 
 ## Features
 
