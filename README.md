@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Theme Switcher App
 
 A modern React + TypeScript web application that demonstrates dynamic theming with three distinct visual themes. Each theme offers a unique layout, typography, and color scheme while maintaining full functionality and responsiveness.
@@ -177,3 +178,7 @@ For questions or support, please contact:
 ---
 
 **Built with ❤️ using React, TypeScript, and modern web technologies** 
+=======
+# multi-theme-switcher-app
+Submission for React Frontend Developer Technical Assessment – Includes theme switching, routing, API integration, and responsive design.
+>>>>>>> 17a6a43818818db977fc514e72ab7bb25ff1919d
