@@ -8,7 +8,7 @@ interface ThemeProviderProps {
 }
 
 export const ThemeProvider: React.FC<ThemeProviderProps> = ({ children }) => {
-  // Get initial theme from localStorage or default to theme1
+  
   const getInitialTheme = (): Theme => {
     const savedTheme = localStorage.getItem('selectedTheme') as Theme;
     return savedTheme && ['theme1', 'theme2', 'theme3'].includes(savedTheme) 
@@ -18,14 +18,14 @@ export const ThemeProvider: React.FC<ThemeProviderProps> = ({ children }) => {
 
   const [theme, setThemeState] = useState<Theme>(getInitialTheme);
 
-  // Update theme and persist to localStorage
+  
   const setTheme = (newTheme: Theme) => {
     setThemeState(newTheme);
     localStorage.setItem('selectedTheme', newTheme);
     document.documentElement.setAttribute('data-theme', newTheme);
   };
 
-  // Apply theme to document on mount and theme change
+  
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme);
   }, [theme]);
@@ -42,7 +42,7 @@ export const ThemeProvider: React.FC<ThemeProviderProps> = ({ children }) => {
   );
 };
 
-// Custom hook to use theme context
+
 export const useTheme = (): ThemeContextType => {
   const context = useContext(ThemeContext);
   if (context === undefined) {
